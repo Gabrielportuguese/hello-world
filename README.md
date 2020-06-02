@@ -1,2 +1,2 @@
-# hello-world
-Testing repository
+# CS50-Course
+Projects for the course
